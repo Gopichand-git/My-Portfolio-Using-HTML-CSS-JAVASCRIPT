@@ -18,7 +18,7 @@ This **Portfolio Website** is designed to present:
 ✔️ **Smooth Navigation** – Scroll animations and transitions  
 ✔️ **Projects Section** – Showcases completed work with links  
 ✔️ **Contact Form** – Simple form for inquiries  
-✔️ **Social Media Integration** – Links to GitHub, LinkedIn, etc.  
+✔️ **Social Media Integration** – Links to GitHub, LinkedIn, etc
 
 ---
 
